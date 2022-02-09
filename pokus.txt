@@ -5,3 +5,5 @@ zmena v ramci vetvy...
 dalsi riadok
 
 a este jedna zmena
+
+qqq
