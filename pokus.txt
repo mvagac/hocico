@@ -1,3 +1,5 @@
 hura!
 
 zmena v ramci vetvy...
+
+dalsi riadok
